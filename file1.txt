@@ -1,2 +1,6 @@
 1
+<<<<<<< HEAD
 step2
+=======
+step 3
+>>>>>>> origin/main
